@@ -1,3 +1,13 @@
+# Note
+
+This package exists only to add the ability to set a custom path to the Laravel bootstrap file.
+
+Please note, this is just a temporary package that will last till the custom path will be implemented into the original one.
+
+All credits go to [Jeffrey Way](https://github.com/JeffreyWay) (author) and [Kyle Ferguson](https://github.com/kyleferguson) (who implemented the custom path)
+
+---
+
 This extension offers an incredibly simple (and fast) way to begin testing and driving your Laravel applications with Behat. Some benefits include:
 
 - **Fast:** It doesn't depend on anything like Goutte, so it offers a super-fast way to test your UI. You don't even need to setup a host to run your tests.
